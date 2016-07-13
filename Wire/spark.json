@@ -1,7 +1,7 @@
 {
     "name": "Adafruit_SHT31",
-    "author": "Athreya V <athreya@umich.edu",
     "version": "0.0.1",
+    "author": "Athreya V <athreya@umich.edu",
     "license": "MIT License",
-    "description": "Spark Compatible Wire Library"
+    "description": "Spark Compatible Adafruit-SHT31 Library"
 }
