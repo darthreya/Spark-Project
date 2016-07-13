@@ -1,0 +1,5 @@
+{
+    "name": "Adafruit_SHT31",
+    "license": "MIT License",
+    "description": "Spark Compatible Adafruit-SHT31 Library"
+}
