@@ -26,7 +26,7 @@
   // see bellow
 
 #endif
-#include "Wire.h"
+ #include <spark_wiring_i2c.h>
 
 #define SHT31_DEFAULT_ADDR    0x44
 #define SHT31_MEAS_HIGHREP_STRETCH 0x2C06
